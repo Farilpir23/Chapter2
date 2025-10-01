@@ -22,7 +22,7 @@
 
 //LED PAD to use
 #define LED_PAD				0
-#define LED1_PAD			2
+#define LED1_PAD			25
 #define LED2_PAD			3
 
 
